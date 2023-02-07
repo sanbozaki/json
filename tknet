@@ -1,0 +1,98 @@
+[
+ {
+  "key" : "TUI_C",
+  "name" : "TUI_C",
+  "latitude": -29.79913,
+  "longitude": -51.86521
+  },
+ {
+  "key" : "TABI-C",
+  "name" : "TABI-C",
+  "latitude": -29.68641,
+  "longitude": -51.71685
+  },
+ {
+  "key" : "LJO-AME",
+  "name" : "LJO-AME",
+  "latitude": -29.45645,
+  "longitude": -51.96695
+  },
+ {
+  "key" : "MGO-VDA",
+  "name" : "MGO-VDA",
+  "latitude": -29.81688,
+  "longitude": -51.47653
+  },
+ {
+  "key" : "TRF-PAR",
+  "name" : "TRF-PAR",
+  "latitude": -29.94271,
+  "longitude": -51.71849
+  },
+ {
+  "key" : "TRF-POB",
+  "name" : "TRF-POB",
+  "latitude": -29.93869,
+  "longitude": -51.69291
+  },
+ {
+  "key" : "TRF-BTO",
+  "name" : "TRF-BTO",
+  "latitude": -29.94271,
+  "longitude": -51.71849
+  },
+ {
+  "key" : "ETA_ORT",
+  "name" : "ETA_ORT",
+  "latitude" -29.48709,
+  "longitude" -51.95801
+  },
+ {
+  "key" : "NVSR_C",
+  "name" : "NVSR_C",
+  "latitude": -29.85179,
+  "longitude": -51.27225
+  },
+ {
+  "key" : "GLC_C",
+  "name" : "GLC_C",
+  "latitude": -29.90974,
+  "longitude": -51.76629
+  },
+ {
+  "key" : "SJO_C",
+  "name" : "SJO_C",
+  "latitude": -29.96069,
+  "longitude": -51.72377
+  },
+ {
+  "key" : "LJO-OLA",
+  "name" : "LJO-OLA",
+  "latitude": -29.43569,
+  "longitude": -51.99147
+  },
+ {
+  "key" : "TUN_LGU",
+  "name" : "TUN_LGU",
+  "latitude": -29.47169,
+  "longitude": -51.80843
+  },
+ {
+  "key" : "FZVN_C",
+  "name" : "FZVN_C",
+  "latitude": -29.5908,
+  "longitude": -51.82515 
+  },
+ {
+  "key" : "CQU_C",
+  "name" : "CQU_C",
+  "latitude": -29.95627,
+  "longitude": -51.62762
+  },
+ {
+  "key" : "TRF_C",
+  "name" : "TRF_C",
+  "latitude": -29.93629,
+  "longitude": -51.7146
+  }
+]
