@@ -1,0 +1,98 @@
+[
+  {
+    "key": "TU",
+    "latitude": -29.79913,
+    "longitude": -51.86521,
+    "name": "Taquari"
+  },
+ {
+  "key": "TB",
+  "latitude": -29.68641,
+  "longitude": -51.71685
+  "name": "Tabai",
+  },
+ {
+  "key": "AM",
+  "latitude": -29.45645,
+  "longitude": -51.96695
+  "name": "LJO_AME",
+  },
+ {
+  "key": "VD",
+  "latitude": -29.81688,
+  "longitude": -51.47653
+  "name": "MGO_VDA",
+  },
+ {
+  "key": "PA",
+  "latitude": -29.94271,
+  "longitude": -51.71849
+  "name": "TRF_PAR",
+  },
+ {
+  "key": "PB",
+  "latitude": -29.93869,
+  "longitude": -51.69291
+  "name": "TRF_POB",
+  },
+ {
+  "key": "BT",
+  "latitude": -29.94271,
+  "longitude": -51.71849
+  "name": "TRF-BTO",
+  },
+ {
+  "key": "ET",
+  "latitude": -29.48709,
+  "longitude": -51.95801
+  "name": "ETA_ORT",
+  },
+ {
+  "key": "NV",
+  "latitude": -29.85179,
+  "longitude": -51.27225
+  "name": "NVSR_C",
+  },
+ {
+  "key": "GC",
+  "latitude": -29.90974,
+  "longitude": -51.76629
+  "name": "GLC_C",
+  },
+ {
+  "key": "SJ",
+  "latitude": -29.96069,
+  "longitude": -51.72377
+  "name": "SJO_C",
+  },
+ {
+  "key": "OL",
+  "latitude": -29.43569,
+  "longitude": -51.99147
+  "name": "LJO_OLA",
+  },
+ {
+  "key": "TU",
+  "latitude": -29.47169,
+  "longitude": -51.80843
+  "name": "TUN_LGU",
+  },
+ {
+  "key": "FZ",
+  "latitude": -29.5908,
+  "longitude": -51.82515
+  "name": "FZVN_C",
+  },
+ {
+  "key": "CQ",
+  "latitude": -29.95627,
+  "longitude": -51.62762
+  "name": "CQU_C",
+  },
+ {
+  "key": "TR",
+  "latitude": -29.93629,
+  "longitude": -51.7146
+  "name": "TRF_C",
+  }
+]
